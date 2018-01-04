@@ -1,0 +1,6922 @@
+{
+    "interactionModel":{
+  "languageModel": {
+    "types": [
+      {
+        "name": "PIKALYTICS_TYPE",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "move",
+              "synonyms": [
+                "moves",
+                "moveset"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "teammate",
+              "synonyms": [
+                "team mates",
+                "teammates",
+                "partners"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "POKEMON_NAME_LIST",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Bulbasaur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ivysaur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Venusaur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Venusaur-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charmander",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charmeleon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charizard",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charizard-Mega-X",
+              "synonyms": ["Charizard a x","Charizard Mega X"]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charizard-Mega-Y",
+              "synonyms": ["Charizard a y","Charizard Mega Y"]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Squirtle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wartortle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blastoise",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blastoise-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Caterpie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Metapod",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Butterfree",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Weedle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kakuna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beedrill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beedrill-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pidgey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pidgeotto",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pidgeot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pidgeot-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rattata",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rattata-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Raticate",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Raticate-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spearow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fearow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ekans",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arbok",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pikachu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Raichu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Raichu-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandshrew",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandshrew-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandslash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandslash-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidoran-F",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidorina",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidoqueen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidoran-M",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidorino",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nidoking",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Clefairy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Clefable",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vulpix",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vulpix-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ninetales",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ninetales-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jigglypuff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wigglytuff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zubat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golbat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oddish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gloom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vileplume",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Paras",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Parasect",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Venonat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Venomoth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Diglett",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Diglett-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dugtrio",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dugtrio-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meowth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meowth-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Persian",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Persian-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Psyduck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golduck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mankey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Primeape",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Growlithe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arcanine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Poliwag",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Poliwhirl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Poliwrath",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Abra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kadabra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Alakazam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Alakazam-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Machop",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Machoke",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Machamp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bellsprout",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Weepinbell",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Victreebel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tentacool",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tentacruel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Geodude",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Geodude-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Graveler",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Graveler-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golem-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ponyta",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rapidash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slowpoke",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slowbro",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slowbro-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magnemite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magneton",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Farfetch'd",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Doduo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dodrio",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dewgong",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grimer",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grimer-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Muk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Muk-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shellder",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cloyster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gastly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Haunter",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gengar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gengar-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Onix",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drowzee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hypno",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Krabby",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kingler",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Voltorb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Electrode",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Exeggcute",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Exeggutor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Exeggutor-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cubone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Marowak",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Marowak-Alola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hitmonlee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hitmonchan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lickitung",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Koffing",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Weezing",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rhyhorn",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rhydon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chansey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tangela",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kangaskhan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kangaskhan-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Horsea",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seadra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Goldeen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seaking",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Staryu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Starmie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mr. Mime",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scyther",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jynx",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Electabuzz",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magmar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pinsir",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pinsir-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tauros",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magikarp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gyarados",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gyarados-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lapras",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ditto",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Eevee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vaporeon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jolteon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flareon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Porygon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Omanyte",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Omastar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kabuto",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kabutops",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aerodactyl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aerodactyl-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Snorlax",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Articuno",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zapdos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Moltres",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dratini",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dragonair",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dragonite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mewtwo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mewtwo-Mega-X",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mewtwo-Mega-Y",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mew",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chikorita",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bayleef",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meganium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cyndaquil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Quilava",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Typhlosion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Totodile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Croconaw",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Feraligatr",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sentret",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Furret",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hoothoot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Noctowl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ledyba",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ledian",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spinarak",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ariados",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crobat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chinchou",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lanturn",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pichu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cleffa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Igglybuff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Togepi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Togetic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Natu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Xatu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mareep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flaaffy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ampharos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ampharos-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bellossom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Marill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Azumarill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sudowoodo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Politoed",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hoppip",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skiploom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jumpluff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aipom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sunkern",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sunflora",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yanma",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wooper",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Quagsire",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Espeon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Umbreon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Murkrow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slowking",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Misdreavus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Unown",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wobbuffet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Girafarig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pineco",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Forretress",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dunsparce",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gligar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Steelix",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Steelix-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Snubbull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Granbull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Qwilfish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scizor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scizor-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shuckle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Heracross",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Heracross-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sneasel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Teddiursa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ursaring",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slugma",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magcargo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swinub",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Piloswine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Corsola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Remoraid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Octillery",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Delibird",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mantine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skarmory",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Houndour",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Houndoom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Houndoom-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kingdra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Phanpy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Donphan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Porygon2",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stantler",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Smeargle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tyrogue",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hitmontop",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Smoochum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Elekid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magby",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Miltank",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blissey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Raikou",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Entei",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Suicune",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Larvitar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pupitar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tyranitar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tyranitar-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lugia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ho-Oh",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Celebi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Treecko",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grovyle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sceptile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sceptile-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Torchic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Combusken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blaziken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blaziken-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mudkip",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Marshtomp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swampert",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swampert-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Poochyena",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mightyena",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zigzagoon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Linoone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wurmple",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silcoon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beautifly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cascoon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dustox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lotad",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lombre",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ludicolo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seedot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nuzleaf",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shiftry",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Taillow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swellow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wingull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pelipper",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ralts",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kirlia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gardevoir",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gardevoir-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Surskit",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Masquerain",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shroomish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Breloom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slakoth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vigoroth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slaking",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nincada",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ninjask",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shedinja",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Whismur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Loudred",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Exploud",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Makuhita",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hariyama",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Azurill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nosepass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skitty",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Delcatty",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sableye",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sableye-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mawile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mawile-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aron",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lairon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aggron",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aggron-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meditite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Medicham",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Medicham-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Electrike",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Manectric",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Manectric-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Plusle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Minun",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Volbeat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Illumise",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Roselia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gulpin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swalot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Carvanha",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sharpedo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sharpedo-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wailmer",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wailord",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Numel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Camerupt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Camerupt-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Torkoal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spoink",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grumpig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spinda",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Trapinch",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vibrava",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flygon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cacnea",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cacturne",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swablu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Altaria",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Altaria-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zangoose",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seviper",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lunatone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Solrock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Barboach",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Whiscash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Corphish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crawdaunt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Baltoy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Claydol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lileep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cradily",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Anorith",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Armaldo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Feebas",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Milotic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Castform",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Castform-Sunny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Castform-Rainy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Castform-Snowy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kecleon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shuppet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Banette",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Banette-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Duskull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dusclops",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tropius",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chimecho",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Absol",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Absol-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wynaut",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Snorunt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Glalie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Glalie-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spheal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sealeo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Walrein",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Clamperl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Huntail",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gorebyss",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Relicanth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Luvdisc",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bagon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shelgon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Salamence",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Salamence-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beldum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Metang",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Metagross",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Metagross-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Regirock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Regice",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Registeel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Latias",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Latias-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Latios",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Latios-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kyogre",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kyogre-Primal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Groudon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Groudon-Primal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rayquaza",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rayquaza-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jirachi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deoxys",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deoxys-Attack",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deoxys-Defense",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deoxys-Speed",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Turtwig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grotle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Torterra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chimchar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Monferno",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Infernape",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Piplup",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Prinplup",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Empoleon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Starly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Staravia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Staraptor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bidoof",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bibarel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kricketot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kricketune",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shinx",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Luxio",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Luxray",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Budew",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Roserade",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cranidos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rampardos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shieldon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bastiodon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Burmy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wormadam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wormadam-Sandy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wormadam-Trash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mothim",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Combee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vespiquen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pachirisu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Buizel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Floatzel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cherubi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cherrim",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cherrim-Sunshine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shellos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gastrodon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ambipom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drifloon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drifblim",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Buneary",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lopunny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lopunny-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mismagius",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Honchkrow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Glameow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Purugly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chingling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stunky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skuntank",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bronzor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bronzong",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bonsly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mime Jr.",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Happiny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chatot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spiritomb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gible",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gabite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Garchomp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Garchomp-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Munchlax",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Riolu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lucario",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lucario-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hippopotas",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hippowdon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skorupi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drapion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Croagunk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Toxicroak",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Carnivine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Finneon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lumineon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mantyke",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Snover",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Abomasnow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Abomasnow-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Weavile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magnezone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lickilicky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rhyperior",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tangrowth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Electivire",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magmortar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Togekiss",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yanmega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Leafeon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Glaceon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gliscor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mamoswine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Porygon-Z",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gallade",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gallade-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Probopass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dusknoir",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Froslass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom-Heat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom-Wash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom-Frost",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom-Fan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rotom-Mow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Uxie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mesprit",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Azelf",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dialga",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Palkia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Heatran",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Regigigas",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Giratina",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Giratina-Origin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cresselia",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Phione",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Manaphy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Darkrai",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shaymin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shaymin-Sky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Bug",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Dark",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Dragon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Electric",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Fairy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Fighting",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Fire",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Flying",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Ghost",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Grass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Ground",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Ice",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Poison",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Psychic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Rock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Steel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arceus-Water",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Victini",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Snivy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Servine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Serperior",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tepig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pignite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Emboar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oshawott",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dewott",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Samurott",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Patrat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Watchog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lillipup",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Herdier",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stoutland",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Purrloin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Liepard",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pansage",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Simisage",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pansear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Simisear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Panpour",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Simipour",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Munna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Musharna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pidove",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tranquill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Unfezant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Blitzle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zebstrika",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Roggenrola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Boldore",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gigalith",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Woobat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swoobat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drilbur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Excadrill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Audino",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Audino-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Timburr",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gurdurr",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Conkeldurr",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tympole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Palpitoad",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seismitoad",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Throh",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sawk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sewaddle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swadloon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Leavanny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Venipede",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Whirlipede",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scolipede",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cottonee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Whimsicott",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Petilil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lilligant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Basculin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Basculin-Blue-Striped",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Krokorok",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Krookodile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Darumaka",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Darmanitan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Darmanitan-Zen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Maractus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dwebble",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crustle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scraggy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scrafty",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sigilyph",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yamask",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cofagrigus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tirtouga",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Carracosta",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Archen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Archeops",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Trubbish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Garbodor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zorua",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zoroark",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Minccino",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cinccino",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gothita",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gothorita",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gothitelle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Solosis",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Duosion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Reuniclus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ducklett",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swanna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vanillite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vanillish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vanilluxe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deerling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sawsbuck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Emolga",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Karrablast",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Escavalier",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Foongus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Amoonguss",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Frillish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jellicent",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Alomomola",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Joltik",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Galvantula",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ferroseed",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ferrothorn",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Klink",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Klang",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Klinklang",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tynamo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Eelektrik",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Eelektross",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Elgyem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beheeyem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Litwick",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lampent",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chandelure",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Axew",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fraxure",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Haxorus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cubchoo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beartic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cryogonal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shelmet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Accelgor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stunfisk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mienfoo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mienshao",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Druddigon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golett",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golurk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pawniard",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bisharp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bouffalant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rufflet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Braviary",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vullaby",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mandibuzz",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Heatmor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Durant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Deino",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zweilous",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hydreigon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Larvesta",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Volcarona",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cobalion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Terrakion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Virizion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tornadus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tornadus-Therian",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Thundurus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Thundurus-Therian",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Reshiram",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zekrom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Landorus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Landorus-Therian",
+              "synonyms": ["Landorus Therian"]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kyurem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kyurem-Black",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kyurem-White",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Keldeo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Keldeo-Resolute",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meloetta",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meloetta-Pirouette",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Genesect",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Genesect-Douse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Genesect-Shock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Genesect-Burn",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Genesect-Chill",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chespin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Quilladin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chesnaught",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fennekin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Braixen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Delphox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Froakie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Frogadier",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Greninja",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Greninja-Ash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bunnelby",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Diggersby",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fletchling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fletchinder",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Talonflame",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scatterbug",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spewpa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vivillon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vivillon-Fancy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vivillon-Pokeball",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Litleo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pyroar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flabebe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Floette",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Floette-Eternal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Florges",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skiddo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gogoat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pancham",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pangoro",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Furfrou",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Espurr",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meowstic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meowstic-F",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Honedge",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Doublade",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aegislash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aegislash-Blade",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Spritzee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aromatisse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Swirlix",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Slurpuff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Inkay",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Malamar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Binacle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Barbaracle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Skrelp",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dragalge",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Clauncher",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Clawitzer",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Helioptile",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Heliolisk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tyrunt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tyrantrum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Amaura",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aurorus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sylveon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hawlucha",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dedenne",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Carbink",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Goomy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sliggoo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Goodra",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Klefki",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Phantump",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Trevenant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pumpkaboo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pumpkaboo-Small",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pumpkaboo-Large",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pumpkaboo-Super",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gourgeist",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gourgeist-Small",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gourgeist-Large",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gourgeist-Super",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bergmite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Avalugg",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Noibat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Noivern",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Xerneas",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yveltal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zygarde",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zygarde-10%",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zygarde-Complete",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Diancie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Diancie-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hoopa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hoopa-Unbound",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Volcanion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rowlet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dartrix",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Decidueye",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Litten",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Torracat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Incineroar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Popplio",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Brionne",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Primarina",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pikipek",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Trumbeak",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Toucannon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yungoos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gumshoos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Grubbin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Charjabug",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vikavolt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crabrawler",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crabominable",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oricorio",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oricorio-Pom-Pom",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oricorio-Pa'u",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oricorio-Sensu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cutiefly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ribombee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rockruff",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lycanroc",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lycanroc-Midnight",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wishiwashi",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wishiwashi-School",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mareanie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Toxapex",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mudbray",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mudsdale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dewpider",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Araquanid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fomantis",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lurantis",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Morelull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Shiinotic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Salandit",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Salazzle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stufful",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bewear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bounsweet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Steenee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tsareena",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Comfey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oranguru",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Passimian",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Wimpod",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Golisopod",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sandygast",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Palossand",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pyukumuku",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Type: Null",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Bug",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Dark",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Dragon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Electric",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Fairy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Fighting",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Fire",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Flying",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Ghost",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Grass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Ground",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Ice",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Poison",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Psychic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Rock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Steel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silvally-Water",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Minior",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Minior-Meteor",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Komala",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Turtonator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Togedemaru",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mimikyu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mimikyu-Busted",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bruxish",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Drampa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dhelmise",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jangmo-o",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hakamo-o",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kommo-o",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tapu Koko",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tapu Lele",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tapu Bulu",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tapu Fini",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cosmog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cosmoem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Solgaleo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lunala",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nihilego",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Buzzwole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pheromosa",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Xurkitree",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Celesteela",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kartana",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Guzzlord",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Necrozma",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magearna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Marshadow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Missingno.",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tomohawk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Necturna",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mollux",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aurumoth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Malaconda",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cawmodore",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Volkraken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Plasmanta",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Naviathan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crucibelle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Crucibelle-Mega",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kerfluffle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Syclant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Revenankh",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Pyroak",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fidgit",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Stratagem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arghonaut",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Kitsunoh",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cyclohm",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Colossoil",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Krilowatt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Voodoom",
+              "synonyms": []
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "PokemonIntent",
+        "samples": [
+          "for {pokemon_name} {type}"
+        ],
+        "slots": [
+          {
+            "name": "pokemon_name",
+            "type": "POKEMON_NAME_LIST"
+          },
+          {
+            "name": "type",
+            "type": "PIKALYTICS_TYPE"
+          }
+        ]
+      }
+    ],
+    "invocationName": "pokemon info"
+  }
+}}
